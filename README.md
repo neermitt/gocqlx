@@ -1,0 +1,2 @@
+# gocqlx
+Go CQL extension
